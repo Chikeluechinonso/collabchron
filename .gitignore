@@ -24,6 +24,7 @@ bower_components/
 /dist/
 
 # Ignore local configuration files
+.env
 .env.local
 
 # Ignore package-lock.json for npm
